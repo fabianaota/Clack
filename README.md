@@ -1,2 +1,3 @@
-# Clack
-Repositório para as atualizações e serviços do projeto Clack.
+## Clack
+
+### Projeto integrador do curso Mobile Android da Digital House Brasil
