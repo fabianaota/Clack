@@ -1,3 +1,3 @@
 ## Clack
 
-### Projeto integrador do curso Mobile Android da Digital House Brasil
+#### Projeto integrador do curso Mobile Android da Digital House Brasil
